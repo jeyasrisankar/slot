@@ -112,7 +112,7 @@ Execute the program using runserver command.
         </table>
     </body>
     </html>
-    ~~~
+~~~
 
 ## OUTPUTS:
 <img width="1915" height="974" alt="Screenshot 2025-11-27 233741" src="https://github.com/user-attachments/assets/11494708-37d3-4e87-af12-0abe08157e50" />
