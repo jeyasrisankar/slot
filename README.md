@@ -1,4 +1,4 @@
-# Ex03 Time Table
+<img width="1912" height="898" alt="Screenshot 2025-12-05 111531" src="https://github.com/user-attachments/assets/08237021-d696-4fa5-bb5c-7a2546be59c5" /># Ex03 Time Table
 ## Date: 27/11/2025
 ## ref no: 25009010
 
@@ -35,19 +35,19 @@ Execute the program using runserver command.
             <img src="/static/logo.png" height="100" width="540">
         </center>
         <br>
-        <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+        <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="pink">
             <caption><b>SLOT TIME TABLE - JEYASRI S (25009010)</b></caption>
             <tr align="center">
-                <th bgcolor="yellow">Day/Time</th>
-                <th bgcolor="yellow">Monday</th>
-                <th bgcolor="yellow">Tuesday</th>
-                <th bgcolor="yellow">Wednesday</th>
-                <th bgcolor="yellow">Thursday</th>
-                <th bgcolor="yellow">Friday</th>
-                <th bgcolor="yellow">Saturday</th>
+                <th bgcolor="lightblue">Day/Time</th>
+                <th bgcolor="lightblue">Monday</th>
+                <th bgcolor="lightblue">Tuesday</th>
+                <th bgcolor="lightblue">Wednesday</th>
+                <th bgcolor="lightblue">Thursday</th>
+                <th bgcolor="lightblue">Friday</th>
+                <th bgcolor="lightblue">Saturday</th>
             </tr>
             <tr align="center">
-                <th bgcolor="yellow">8-10</th>
+                <th bgcolor="limegreen">8-10</th>
                 <td >FREE SLOT</td>
                 <td>FREE SLOT</td>
                 <td>COMMUNICATIVE ENGLISH</td>
@@ -56,7 +56,7 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">10-12</th>
+            <th bgcolor="limegreen">10-12</th>
             <td>COMMUNICATIVE ENGLISH</td>
             <td>FREE SLOT</td>
             <td>FUNDAMENTALS OF WEB APPLICATIONS</td>
@@ -65,11 +65,11 @@ Execute the program using runserver command.
             <td>FUNDAMENTALS OF WEB APPLICATIONS</td>
             </tr>
             <tr>
-                <th bgcolor="yellow">12-1</th>
+                <th bgcolor="limegreen">12-1</th>
                 <td colspan="5" align="center">L U N C H</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">1-3</th>
+            <th bgcolor="limegreen">1-3</th>
             <td>FREE SLOT</td>
             <td>COMMUNICATIVE ENGLISH</td>
             <td>FREE SLOT</td>
@@ -78,7 +78,7 @@ Execute the program using runserver command.
             <td>COMMUNICATIVE ENGLISH</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">3-5</th>
+            <th bgcolor="limegreen">3-5</th>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
@@ -115,9 +115,11 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUTS:
-<img width="1915" height="974" alt="Screenshot 2025-11-27 233741" src="https://github.com/user-attachments/assets/11494708-37d3-4e87-af12-0abe08157e50" />
 
 <img width="931" height="389" alt="Screenshot 2025-11-27 233813" src="https://github.com/user-attachments/assets/c44e3856-8abe-406d-b6a1-5db0d85000d1" />
+
+<img width="1912" height="898" alt="Screenshot 2025-12-05 111531" src="https://github.com/user-attachments/assets/a108f057-0915-4bb4-8822-5c1b6083a34b" />
+
 
 ## RESULTc:
 The program for creating slot timetable using basic HTML tags is executed successfully.
